@@ -1,0 +1,94 @@
+id,name,country,city,lat,lon,categories,tags,avg_cost_per_day,ideal_months,popularity
+1,Goa,India,Goa,15.2993,74.124,beach|nightlife|water-sports,beach|party|seafood|sunset|clubs|parasailing,3500,Nov|Dec|Jan|Feb,4.6
+2,Manali,India,Manali,32.2432,77.1892,mountains|adventure|nature,trek|snow|paragliding|river-rafting|cafe,2800,Mar|Apr|May|Jun|Oct,4.5
+3,Jaipur,India,Jaipur,26.9124,75.7873,history|culture|city,forts|palaces|street-food|markets|heritage,3000,Oct|Nov|Dec|Jan|Feb,4.4
+4,Rishikesh,India,Rishikesh,30.0869,78.2676,adventure|spiritual|nature,rafting|yoga|bungee|ganga|camping,2500,Oct|Nov|Dec|Feb|Mar,4.4
+5,Pondicherry,India,Puducherry,11.9139,79.8145,beach|cafe|culture,french|beach|cycling|heritage|ashram,3000,Oct|Nov|Dec|Jan|Feb,4.3
+6,Andaman,India,Port Blair,11.6234,92.7265,beach|diving|islands,scuba|clear-water|coral|calm|beach,5500,Nov|Dec|Jan|Feb|Mar,4.7
+7,Varanasi,India,Varanasi,25.3176,82.9739,spiritual|history|culture,ghats|aarti|temples|saree|lassi,2200,Nov|Dec|Jan|Feb,4.3
+8,Delhi,India,New Delhi,28.6139,77.209,city|history|food,museums|monuments|street-food|markets,3200,Oct|Nov|Feb|Mar,4.2
+9,Gokarna,India,Gokarna,14.5479,74.3186,beach|relaxation|backpacker,quiet|trek|beach-camping|cafes,2400,Nov|Dec|Jan|Feb,4.4
+10,Udaipur,India,Udaipur,24.5854,73.7125,history|lakes|romantic,palaces|boat-ride|viewpoints|markets,3200,Oct|Nov|Dec|Jan|Feb,4.5
+11,Mysore,India,Mysore,12.2958,76.6394,history|culture|city,palaces|temples|markets|gardens,2800,Oct|Nov|Feb|Mar,4.3
+12,Shimla,India,Shimla,31.1048,77.1734,mountains|adventure|nature,trek|snow|shopping|cafe,2700,Dec|Jan|Feb|Mar,4.4
+13,Coorg,India,Madikeri,12.3375,75.8069,hills|nature|coffee,trek|waterfalls|plantation|cafe,3000,Oct|Nov|Dec|Jan,4.5
+14,Agra,India,Agra,27.1767,78.0081,history|culture|city,taj-mahal|forts|street-food,2500,Oct|Nov|Feb|Mar,4.3
+15,Jaisalmer,India,Jaisalmer,26.9157,70.9083,desert|culture|history,fort|camel-safari|sand-dunes|heritage,3200,Oct|Nov|Dec|Jan,4.4
+16,Khajuraho,India,Khajuraho,24.8316,79.9196,history|temples|culture,temples|sculptures|light-show,2800,Oct|Nov|Feb|Mar,4.3
+17,Alleppey,India,Alappuzha,9.4981,76.3388,backwaters|relaxation|nature,houseboat|canoeing|fishing,3500,Nov|Dec|Jan|Feb,4.6
+18,Kolkata,India,Kolkata,22.5726,88.3639,city|culture|food,museums|temples|street-food|markets,3000,Oct|Nov|Feb|Mar,4.2
+19,Darjeeling,India,Darjeeling,27.036,88.2627,hills|tea|nature,trek|tea-garden|cable-car|sunrise,3200,Oct|Nov|Feb|Mar,4.5
+20,Ranthambore,India,Sawai Madhopur,26.0173,76.5026,wildlife|adventure|nature,safari|photography|fort,4000,Oct|Nov|Feb|Mar,4.6
+21,Kodaikanal,India,Kodaikanal,10.2381,77.4893,hills|nature|romantic,trek|lake|waterfalls|boating,3000,Oct|Nov|Dec|Jan,4.4
+22,Mahabalipuram,India,Mahabalipuram,12.6131,80.1975,history|beach|culture,temples|shore|sculptures|sunset,2800,Oct|Nov|Dec|Jan,4.3
+23,Hampi,India,Hampi,15.335,76.46,history|ruins|adventure,temples|bouldering|heritage|cycling,2500,Oct|Nov|Feb|Mar,4.5
+24,Khajjiar,India,Khajjiar,32.17,76.05,mountains|nature|adventure,trek|picnic|camping|lake,2800,Jul|Aug|Sep|Oct,4.4
+25,Pune,India,Pune,18.5204,73.8567,city|culture|food,museums|cafe|shopping|temples,3000,Oct|Nov|Feb|Mar,4.2
+26,Mount Abu,India,Mount Abu,24.593,72.7183,hills|nature|relaxation,temples|sunset|trek|lake,3200,Oct|Nov|Dec|Jan,4.4
+27,Leh,India,Leh,34.1526,77.577,mountains|adventure|nature,trek|river|monastery|camping,4500,Jun|Jul|Aug|Sep,4.6
+28,Sikkim,India,Gangtok,27.3389,88.6065,mountains|nature|culture,trek|monastery|lake|cable-car,4000,Mar|Apr|Oct|Nov,4.5
+29,Rann of Kutch,India,Bhuj,23.7336,69.667,desert|culture|festival,salt-lake|fair|heritage|photography,3500,Nov|Dec|Jan,4.4
+30,Ooty,India,Ooty,11.4064,76.695,hills|nature|romantic,botanical-garden|lake|trek|cable-car,3000,Oct|Nov|Dec|Jan,4.5
+31,Kanha,India,Kanha,22.3349,80.611,wildlife|nature|adventure,safari|photography|birdwatching,4000,Oct|Nov|Feb|Mar,4.6
+32,Bikaner,India,Bikaner,28.0229,73.3119,desert|culture|history,fort|camel|palace|heritage,2800,Oct|Nov|Feb|Mar,4.3
+33,Sundarbans,India,West Bengal,21.9497,88.8183,nature|wildlife|adventure,mangrove|safari|birdwatching|river,4500,Oct|Nov|Dec|Jan,4.5
+34,Ajmer,India,Ajmer,26.4499,74.6399,history|spiritual|culture,dargah|temple|heritage|market,2500,Oct|Nov|Feb|Mar,4.3
+35,Pushkar,India,Pushkar,26.4909,74.5559,spiritual|festival|culture,lake|camel|temple|fair,2800,Oct|Nov|Feb|Mar,4.4
+36,Coonoor,India,Coonoor,11.354,76.7963,hills|nature|tea,trek|tea-garden|lake|botanical,3000,Oct|Nov|Dec|Jan,4.4
+37,Jodhpur,India,Jodhpur,26.2389,73.0243,history|culture|desert,fort|markets|heritage|sunset,3200,Oct|Nov|Feb|Mar,4.5
+38,Cherrapunji,India,Cherrapunji,25.2843,91.7345,nature|waterfalls|adventure,trek|waterfalls|cave|bridge,2800,Apr|May|Jun|Jul,4.4
+39,Munnar,India,Munnar,10.0889,77.0595,hills|tea|nature,trek|tea-garden|waterfalls|lake,3200,Oct|Nov|Dec|Jan,4.5
+40,Rameshwaram,India,Rameshwaram,9.2876,79.3129,spiritual|beach|culture,temples|beach|heritage|fishing,3000,Oct|Nov|Dec|Jan,4.3
+41,Srinagar,India,Srinagar,34.0837,74.7973,lakes|mountain|heritage,houseboat|shikara|mughal-garden,3200,Apr|May|Sep|Oct,4.6
+42,Pahalgam,India,Pahalgam,34.0106,75.317,mountain|trek|nature,betaab-valley|rafting|trails,3000,Apr|May|Sep|Oct,4.5
+43,Kashmir Gulmarg,India,Gulmarg,34.0445,74.3768,skiing|mountain|adventure,gondola|ski|meadows,3800,Dec|Jan|Feb|Mar,4.6
+44,Haridwar,India,Haridwar,29.9457,78.1633,spiritual|ghats|temple,aarti|pilgrimage|markets,2200,Oct|Nov|Feb|Mar,4.3
+45,Bagdogra,India,Bagdogra,26.6817,88.3287,gateway|transport|nearby,base for dooars and darjeeling,1800,Oct|Nov|Feb|Mar,3.8
+46,Ziro,India,Ziro,27.6034,93.8245,valley|music|culture,zig-sang|music festival|paddy fields,2500,Sep|Oct|Mar|Apr,4.2
+47,Tawang,India,Tawang,27.586,91.8642,monastery|mountain|culture,tawang monastery|scenic views,3000,Apr|May|Sep|Oct,4.5
+48,Kaziranga,India,Kaziranga,26.5775,93.1711,wildlife|safari|nature,one-horned rhinoceros|safari,3300,Nov|Dec|Jan|Feb,4.6
+49,Dibrugarh,India,Dibrugarh,27.4728,94.911,tea|river|culture,tea-estates|river cruises,2600,Oct|Nov|Feb|Mar,4.0
+50,Chandipur,India,Chandipur,21.5644,87.0678,beach|unique|relaxation,vanishing sea phenomenon,2200,Oct|Nov|Dec|Jan,4.1
+51,Bhubaneswar,India,Bhubaneswar,20.2961,85.8245,temples|heritage|city,lingraj temple|odisha cuisine,2700,Oct|Nov|Dec|Jan,4.0
+52,Konark,India,Konark,19.8871,86.095,temple|heritage|sunrise,Sun Temple|beach,2600,Oct|Nov|Dec|Jan,4.2
+53,Puri,India,Puri,19.8135,85.8312,beach|temple|culture,Jagannath Temple|beach,2800,Oct|Nov|Dec|Jan,4.3
+54,Guwahati,India,Guwahati,26.1445,91.7362,river|temple|gateway,kamakhya temple|brahmaputra,2400,Oct|Nov|Feb|Mar,4.0
+55,Majuli,India,Majuli,26.985,94.1398,river|culture|island,river island|satras|culture,2300,Oct|Nov|Feb|Mar,4.2
+56,Dharamshala,India,Dharamshala,32.216,76.3234,hill-station|spiritual|culture,dalai lama temple|triund trek,3000,Mar|Apr|Sep|Oct,4.6
+57,McLeodGanj,India,McLeodGanj,32.2432,76.321,spiritual|culture|trek,bhagsu falls|monasteries,2800,Mar|Apr|Sep|Oct,4.5
+58,Spiti Valley,India,Spiti,31.0185,78.189,mountain|adventure|remote,key monastery|landscapes,3600,Jun|Jul|Aug|Sep,4.7
+59,Kullu,India,Kullu,31.957,77.1095,valley|adventure|culture,valley of gods|rafting,2900,Mar|Apr|Sep|Oct,4.4
+60,Nainital,India,Nainital,29.3919,79.4542,lake|hill|romantic,naini lake|cable car,3000,Mar|Apr|Oct|Nov,4.4
+61,Almora,India,Almora,29.5976,79.6593,heritage|hill|culture,panaromic views|temples,2600,Mar|Apr|Oct|Nov,4.1
+62,Ranikhet,India,Ranikhet,29.6434,79.4073,quiet|hill|nature,walks|views|temples,2500,Mar|Apr|Oct|Nov,4.0
+63,Pangong,India,"Pangong Lake, Ladakh",34.005,78.2722,lake|scenic|mountain,pangong lake|photography,4200,Jun|Jul|Aug|Sep,4.8
+64,Suryalanka,India,Bapatla,15.9125,80.3186,beach|relaxation|scenic,suryalanka beach,2300,Oct|Nov|Feb|Mar,4.0
+65,Goa South,India,South Goa,15.2832,73.9867,beach|quiet|luxury,palolem|colva,4200,Nov|Dec|Jan|Feb,4.5
+66,MadhyaPradesh Khajuraho,India,Khajuraho,24.8316,79.9196,temple|heritage|lightshow,khajuraho temples,2800,Oct|Nov|Feb|Mar,4.3
+67,Orchha,India,Orchha,25.28,78.672,history|palace|heritage,Orchha fort|cenotaphs,2400,Oct|Nov|Feb|Mar,4.2
+68,Sanchi,India,Sanchi,23.486,77.7397,buddhist|heritage|stupa,sanchi stupa|archaeology,2200,Oct|Nov|Feb|Mar,4.1
+69,Pench,India,Pench,22.5926,79.2923,wildlife|safari|nature,pench national park|tigers,3800,Oct|Nov|Feb|Mar,4.5
+70,Pattadakal,India,Pattadakal,15.8667,75.9917,heritage|temples|history,chalukya temples,2300,Oct|Nov|Feb|Mar,4.0
+71,Gokul,India,Gokul,25.223,83.6256,religious|heritage|mythology,banke bihari|radha krishna,2100,Oct|Nov|Feb|Mar,4.0
+72,Kumarakom,India,Kumarakom,9.585,76.4673,backwater|birdwatching|relax,bird sanctuary|houseboats,3400,Sep|Oct|Nov|Dec,4.6
+73,Varkala,India,Varkala,8.7926,76.709,beach|cliff|relaxation,varkala cliff|beach,3000,Oct|Nov|Dec|Jan,4.5
+74,Kovalam,India,Kovalam,8.4145,76.9784,beach|relax|ayurveda,lighthouse beach|ayurveda,2900,Oct|Nov|Dec|Jan,4.4
+75,Mahabaleshwar,India,Mahabaleshwar,17.925,73.658,hill|strawberry|scenic,points|lakes,3000,Oct|Nov|Dec|Jan,4.3
+76,Lonavala,India,Lonavala,18.755,73.4131,hill|waterfall|weekend,tiger's point|bhushi dam,2600,Jul|Aug|Sep|Oct,4.2
+77,Lavasa,India,Lavasa,18.1625,73.4426,hill|plannedcity|weekend,lake|resorts,3200,Oct|Nov|Feb|Mar,3.9
+78,Pavagadh,India,Pavagadh,22.4669,73.5908,pilgrimage|hill|heritage,champaner-pavagadh,2300,Oct|Nov|Feb|Mar,4.0
+79,Sariska,India,Sariska,27.2705,76.4449,wildlife|safari|nature,sariska tiger reserve,3200,Oct|Nov|Feb|Mar,4.1
+80,Bhadra,India,Bhadra,13.4094,75.7019,wildlife|sanctuary|nature,bhadra wildlife sanctuary,3000,Oct|Nov|Feb|Mar,4.0
+81,Belur Halebid,India,Belur,13.1518,75.7916,heritage|temple|architecture,hoysala temples,2400,Oct|Nov|Feb|Mar,4.2
+82,Panchgani,India,Panchgani,17.9235,73.861,hill|scenic|strawberry,viewpoints|paragliding,2800,Oct|Nov|Dec|Jan,4.1
+83,Tirupati,India,Tirupati,13.6288,79.4192,pilgrimage|temple|devotion,Tirumala tirupati temple,2600,Nov|Dec|Jan|Feb,4.4
+84,Kanchipuram,India,Kanchipuram,12.8342,79.7036,temple|silk|heritage,temples|silk sarees,2400,Oct|Nov|Feb|Mar,4.2
+85,Havelock Island,India,Havelock,11.8745,92.957,beach|scuba|island,radhangar beach|scuba,5600,Nov|Dec|Jan|Feb,4.7
+86,Chikmagalur,India,Chikmagalur,13.3189,75.774,coffee|hills|trek,mundgod|coffee estates,3000,Oct|Nov|Dec|Jan,4.4
+87,Bandipur,India,Bandipur,11.6727,76.0839,wildlife|safari|nature,bandipur tiger reserve,3500,Oct|Nov|Feb|Mar,4.5
+88,Yercaud,India,Yercaud,11.7934,78.249,hill|scenic|quiet,lakes|gardens,2600,Oct|Nov|Dec|Jan,4.0
+89,Sultan Bathery,India,Sultan Bathery,11.7589,76.2796,heritage|tea|nature,edamalayar|monuments,2200,Oct|Nov|Dec|Jan,3.9
+90,Badami,India,Badami,15.9185,75.7511,heritage|caves|history,badami cave temples,2300,Oct|Nov|Feb|Mar,4.1
+91,Gulmarg Meadow,India,Gulmarg,34.0445,74.3768,skiing|meadows|adventure,gondola|skiing,3800,Dec|Jan|Feb|Mar,4.6
+92,Mandawa,India,Mandawa,28.0595,75.1805,haveli|heritage|art,mandawa havelis|frescos,2400,Oct|Nov|Feb|Mar,4.0
+93,Sakleshpur,India,Sakleshpur,12.8667,75.455,coffee|trek|green,green hills|trekking,2700,Oct|Nov|Dec|Jan,4.1
