@@ -6,3 +6,5 @@ scikit-learn>=1.3.0
 google-generativeai>=0.3.0  
 geopy
 reportlab
+googletrans==4.0.0-rc1
+gTTS
